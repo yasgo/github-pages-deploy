@@ -21,6 +21,10 @@
 
 `git remote set-url origin {Github-repo-url}.git`
 
+<p>Example:</p>
+
+`git remote set-url origin https://github.com/supremevalidation/supremevalidation.github.io.git`
+
 <p><strong>5.</strong> Now deploy it to GitHub Pages</p>
 
 `npm run deploy`
