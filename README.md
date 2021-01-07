@@ -30,3 +30,9 @@
 `npm run deploy`
 
 <p><strong>6.</strong> Go to {your-GitHub-code-repository} -> settings -> GitHub pages section and setup source to the gh-pages branch.</p>
+
+
+
+# Github pages deploy for angular projects.
+
+Coming soon.
