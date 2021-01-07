@@ -39,14 +39,14 @@
 
 `npm i angular-cli-ghpages`
 
-<p><strong>2.</strong> Deploy your project to GitHub pages with all default settings.</p>
-
-`ng deploy --base-href=/bolt-loading.github.io/`
-
-<p><strong>3.</strong> Add it as remote</p>
+<p><strong>2.</strong> Add it as remote</p>
 
 `git remote set-url origin {Github-repo-url}.git`
 
 <p>Example:</p>
 
 `git remote set-url origin https://github.com/bolt-loading/bolt-loading.github.io.git`
+
+<p><strong>3.</strong> Deploy your project to GitHub pages with all default settings.</p>
+
+`ng deploy`
